@@ -8,7 +8,7 @@
 , I'm Manav B. Patel </h1>
 <h3 align="center">Software Developer | System Analyst | UI/UX Designer from Canada</h3>
 
-<p align="left"> <a href="https://www.instagram.com/simple.manav/" target="blank"><img src="https://img.shields.io/twitter/follow/DarshitSojitraa?logo=twitter&style=for-the-badge" alt="simple.manav" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/simple.manav/" target="blank"><img src="https://img.shields.io/twitter/follow/simple.manav?logo=twitter&style=for-the-badge" alt="simple.manav" /></a> </p>
 
 - 🌱 I’m currently learning **SciKit.**
 
