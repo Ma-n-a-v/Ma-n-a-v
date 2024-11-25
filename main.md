@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ma-n-a-v](https://github.com/Ma-n-a-v)
 
-- 📫 How to reach me **sojitradarshitpiyushbhai@gmail.com**
+- 📫 How to reach me **manav.patel.professional@gmail.com**
 
 - 📄 Resume [https://drive.google.com/file/d/1vsJcPxdnVsNaHoLDwnSmnWZoRBQDpUX0/view?pli=1](https://drive.google.com/file/d/1vsJcPxdnVsNaHoLDwnSmnWZoRBQDpUX0/view?pli=1)
   
