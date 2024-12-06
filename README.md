@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **manav.patel.professional@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1vsJcPxdnVsNaHoLDwnSmnWZoRBQDpUX0/view?pli=1](https://drive.google.com/file/d/1vsJcPxdnVsNaHoLDwnSmnWZoRBQDpUX0/view?pli=1)
+- 📄 Resume [https://drive.google.com/file/d/11vSEroFc4GxxAne6TUS3WZyoil67nY4x/view](https://drive.google.com/file/d/11vSEroFc4GxxAne6TUS3WZyoil67nY4x/view)
   
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
